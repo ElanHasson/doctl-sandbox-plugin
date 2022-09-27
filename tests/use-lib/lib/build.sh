@@ -1,1 +1,0 @@
-cp prototype hello.js

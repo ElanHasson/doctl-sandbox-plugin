@@ -1,1 +1,0 @@
-copy prototype hello.js
